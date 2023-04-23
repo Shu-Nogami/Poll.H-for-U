@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.nifcloud.mbaas.unity": "https://github.com/NIFCLOUD-mbaas/ncmb_unity.git?path=ncmb_unity/Assets",
     "com.unity.collab-proxy": "1.17.1",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.15",
